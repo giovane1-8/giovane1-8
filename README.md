@@ -2,11 +2,9 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=pt-br&hide_border=false&custom_title=Estátisticas do GitHub:&username=giovane1-8" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&username=giovane1-8" height="150" alt="languages graph"  />
+<div class="styles__Container-sc-1yygg0c-0 eXArDR">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=blueberry&amp;locale=pt-br&amp;hide_border=false&amp;custom_title=Estátisticas do GitHub:&amp;username=giovane1-8" alt="stats graph">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=blueberry&amp;hide_border=false&amp;username=giovane1-8" alt="languages graph">
 </div>
 
 ###
